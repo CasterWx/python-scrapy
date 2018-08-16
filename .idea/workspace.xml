@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="830dbdb6-fdad-44bc-a800-a12a64f91a82" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Myscrapy$get.coverage" NAME="get Coverage Results" MODIFIED="1531076499223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Myscrapy/com/school" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="treePlotter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Myscrapy/treePlotter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2738">
+              <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrapy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Myscrapy/scrapy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="6" selection-start-line="6" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Myscrapy/com/school/get.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="word.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Myscrapy/word.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(</find>
+      <find>)</find>
+      <find>titles,authors,nums,peoples</find>
+      <find>家具家电</find>
+      <find>森林半岛精装修1室，需要1室的，你定会喜</find>
+      <find>随时联系，随时看房。</find>
+      <find>急急出租，二师附小房子，精装修拎包入住,2室2厅1卫</find>
+      <find>㎡</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Myscrapy/spiders/matri.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/com/python/numpy/num.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/items.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/spiders/dmoz_spider.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/csv.csv" />
+        <option value="$PROJECT_DIR$/Myscrapy/三毛.csv" />
+        <option value="$PROJECT_DIR$/Myscrapy/com/python/matplotlibT/h1.txt" />
+        <option value="$PROJECT_DIR$/Myscrapy/魔幻.csv" />
+        <option value="$PROJECT_DIR$/Myscrapy/com/python/matplotlibT/h2.txt" />
+        <option value="$PROJECT_DIR$/Myscrapy/com/python/matplotlibT/matri.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/csv/pan.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/csv/数据/文化/pan1.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/csv/数据/文化/wenhua.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/csv/data/wenhua/wenhua.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/csv/__init__.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/kf.csv" />
+        <option value="$PROJECT_DIR$/Myscrapy/scrapyfx.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/shang.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/58tc.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/cff.txt" />
+        <option value="$PROJECT_DIR$/Myscrapy/word.py" />
+        <option value="$PROJECT_DIR$/wz.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/scrapy.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/web.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/treePlotter.py" />
+        <option value="$PROJECT_DIR$/Myscrapy/com/school/read" />
+        <option value="$PROJECT_DIR$/Myscrapy/com/school/text.txt" />
+        <option value="$PROJECT_DIR$/Myscrapy/com/school/get.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1423" />
+    <option name="width" value="1149" />
+    <option name="height" value="654" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Myscrapy" type="cbb8eebc:String" user="Myscrapy" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Myscrapy" type="cbb8eebc:String" user="Myscrapy" />
+              <item name="Myscrapy" type="cbb8eebc:String" user="Myscrapy" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Myscrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myscrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myscrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myscrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myscrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="Myscrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="school" type="462c0819:PsiDirectoryNode" />
+              <item name="s" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/下载/news_spider1.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Myscrapy/com/school" />
+      <recent name="$PROJECT_DIR$/Myscrapy" />
+      <recent name="$PROJECT_DIR$/Myscrapy/csv/data/wenhua" />
+      <recent name="$PROJECT_DIR$/Myscrapy/csv" />
+      <recent name="$PROJECT_DIR$/Myscrapy/csv/数据/文化" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Myscrapy/csv/数据/文化" />
+      <recent name="$PROJECT_DIR$/Myscrapy/csv" />
+      <recent name="$PROJECT_DIR$/Myscrapy/com/python/matplotlib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.get">
+    <configuration name="get" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Myscrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Myscrapy/com/school" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Myscrapy/com/school/get.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Myscrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Myscrapy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Myscrapy/scrapy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="treePlotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Myscrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Myscrapy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Myscrapy/treePlotter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Myscrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Myscrapy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Myscrapy/web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="wz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Myscrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.treePlotter" />
+      <item itemvalue="Python.wz" />
+      <item itemvalue="Python.scrapy" />
+      <item itemvalue="Python.web" />
+      <item itemvalue="Python.get" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get" />
+        <item itemvalue="Python.web" />
+        <item itemvalue="Python.treePlotter" />
+        <item itemvalue="Python.scrapy" />
+        <item itemvalue="Python.wz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="830dbdb6-fdad-44bc-a800-a12a64f91a82" name="Default" comment="" />
+      <created>1529504814247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529504814247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1866" y="-8" width="1874" height="1096" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5008095" side_tool="true" weight="0.31085354" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991905" weight="0.22833844" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.012378902" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" weight="0.32992464" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936775" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32286432" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Myscrapy/kf.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="853" lean-forward="true" selection-start-line="853" selection-end-line="853" />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="120">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/scrapyfx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/mycsv/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/cff.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/墨子/进击墨子号.jpg" />
+    <entry file="file://$PROJECT_DIR$/墨子/和平守望.jpg" />
+    <entry file="file://$PROJECT_DIR$/墨子/金属风暴.jpg" />
+    <entry file="file://$PROJECT_DIR$/达摩/大发明家.jpg" />
+    <entry file="file://$PROJECT_DIR$/达摩/拳王.jpg" />
+    <entry file="file://$PROJECT_DIR$/达摩/拳僧.jpg" />
+    <entry file="file://$PROJECT_DIR$/东皇太一/噬灭日蚀.jpg" />
+    <entry file="file://$PROJECT_DIR$/亚瑟/死亡骑士.jpg" />
+    <entry file="file://$PROJECT_DIR$/公孙离/幻舞玲珑.jpg" />
+    <entry file="file://$PROJECT_DIR$/兰陵王/暗隐猎兽者.jpg" />
+    <entry file="file://$PROJECT_DIR$/兰陵王/暗影刀锋.jpg" />
+    <entry file="file://$PROJECT_DIR$/兰陵王/隐刃.jpg" />
+    <entry file="file://$PROJECT_DIR$/关羽/一骑当千.jpg" />
+    <entry file="file://$PROJECT_DIR$/关羽/冰锋战神.jpg" />
+    <entry file="file://$PROJECT_DIR$/关羽/天启骑士.jpg" />
+    <entry file="file://$PROJECT_DIR$/关羽/龙腾万里.jpg" />
+    <entry file="file://$PROJECT_DIR$/典韦/狂战士.jpg" />
+    <entry file="file://$PROJECT_DIR$/典韦/黄金武士.jpg" />
+    <entry file="file://$PROJECT_DIR$/周瑜/海军大将.jpg" />
+    <entry file="file://$PROJECT_DIR$/周瑜/铁血都督.jpg" />
+    <entry file="file://$PROJECT_DIR$/周瑜/真爱至上.jpg" />
+    <entry file="file://$PROJECT_DIR$/张飞/乱世虎臣.jpg" />
+    <entry file="file://$PROJECT_DIR$/张飞/禁血狂兽.jpg" />
+    <entry file="file://$PROJECT_DIR$/狄仁杰/超时空战士.jpg" />
+    <entry file="file://$PROJECT_DIR$/狄仁杰/锦衣卫.jpg" />
+    <entry file="file://$PROJECT_DIR$/狄仁杰/阴阳师.jpg" />
+    <entry file="file://$PROJECT_DIR$/东皇太一/东海龙王.jpg" />
+    <entry file="file://$PROJECT_DIR$/狄仁杰/断案大师.jpg" />
+    <entry file="file://$PROJECT_DIR$/张飞/五福同心.jpg" />
+    <entry file="file://$PROJECT_DIR$/不知火舞/明媚烈焰.jpg" />
+    <entry file="file://$PROJECT_DIR$/狄仁杰/魔术师.jpg" />
+    <entry file="file://$PROJECT_DIR$/wz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/com/school/s/piandi/钒.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/58tc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="96" column="27" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/com/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/com/school/read" />
+    <entry file="file://$PROJECT_DIR$/Myscrapy/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2738">
+          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/scrapy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="6" selection-start-line="6" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/lib/python2.7/re.py" />
+    <entry file="file://$PROJECT_DIR$/Myscrapy/com/school/text1.txt" />
+    <entry file="file://$PROJECT_DIR$/Myscrapy/word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/com/school/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/com/school/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Myscrapy/com/school/get.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
